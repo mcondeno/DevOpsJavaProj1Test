@@ -1,5 +1,5 @@
 class Hello {
     public static void main(String[] args) {
-      System.out.println("Hello - This is a test java app");
+      System.out.println("Hello - This is a test java app. Test2");
     }
   }
